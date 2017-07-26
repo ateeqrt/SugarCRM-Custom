@@ -10,4 +10,21 @@
  * Copyright (C) SugarCRM Inc. All rights reserved.
  */
 $relationships = array (
+  'clg_teachers_clg_students' => 
+  array (
+    'rhs_label' => 'Students',
+    'lhs_label' => 'Teachers',
+    'lhs_subpanel' => 'default',
+    'rhs_subpanel' => 'default',
+    'lhs_module' => 'clg_Teachers',
+    'rhs_module' => 'clg_Students',
+    'relationship_type' => 'many-to-many',
+    'readonly' => false,
+    'deleted' => false,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => false,
+    'relationship_name' => 'clg_teachers_clg_students',
+  ),
 );
