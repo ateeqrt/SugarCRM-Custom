@@ -13,9 +13,11 @@
 $app_list_strings['moduleList']['clg_Students'] = 'Students';
 $app_list_strings['moduleList']['clg_Teachers'] = 'Teachers';
 $app_list_strings['moduleList']['clg_Disciplines'] = 'Disciplines';
+$app_list_strings['moduleList']['clg_Programs'] = 'Programs';
 $app_list_strings['moduleListSingular']['clg_Students'] = 'Student';
 $app_list_strings['moduleListSingular']['clg_Teachers'] = 'Teacher';
 $app_list_strings['moduleListSingular']['clg_Disciplines'] = 'Discipline';
+$app_list_strings['moduleListSingular']['clg_Programs'] = 'Program';
 $app_list_strings['account_type_dom']['Assistant Professor'] = 'Assistant Professor';
 $app_list_strings['account_type_dom']['Associate Professor'] = 'Associate Professor';
 $app_list_strings['account_type_dom']['Professor'] = 'Professor';
