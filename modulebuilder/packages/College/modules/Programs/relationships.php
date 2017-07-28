@@ -10,4 +10,20 @@
  * Copyright (C) SugarCRM Inc. All rights reserved.
  */
 $relationships = array (
+  'clg_programs_clg_students' => 
+  array (
+    'rhs_label' => 'Students',
+    'lhs_label' => 'Programs',
+    'rhs_subpanel' => 'default',
+    'lhs_module' => 'clg_Programs',
+    'rhs_module' => 'clg_Students',
+    'relationship_type' => 'one-to-many',
+    'readonly' => false,
+    'deleted' => false,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => false,
+    'relationship_name' => 'clg_programs_clg_students',
+  ),
 );
