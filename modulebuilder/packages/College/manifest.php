@@ -31,9 +31,9 @@ $manifest = array (
   'icon' => '',
   'is_uninstallable' => true,
   'name' => 'College',
-  'published_date' => '2017-07-28 09:51:16',
+  'published_date' => '2017-07-28 12:17:27',
   'type' => 'module',
-  'version' => 1501235476,
+  'version' => 1501244250,
   'remove_tables' => 'prompt',
 );
 
