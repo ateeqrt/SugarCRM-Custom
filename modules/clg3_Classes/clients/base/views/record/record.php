@@ -178,6 +178,11 @@ array (
                 'name' => 'clg3_classes_clg2_programs_1_name',
                 'span' => 6,
               ),
+              4 => 
+              array (
+                'name' => 'clg3_classes_clg2_disciplines_1_name',
+                'span' => 6,
+              ),
             ),
           ),
           2 => 

@@ -182,6 +182,11 @@ array (
               array (
                 'name' => 'clg2_programs_clg_disciplines_1_name',
               ),
+              5 => 
+              array (
+                'name' => 'clg3_classes_clg2_disciplines_1_name',
+                'span' => 6,
+              ),
             ),
           ),
           2 => 
