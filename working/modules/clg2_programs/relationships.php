@@ -212,4 +212,20 @@ $relationships = array (
     'from_studio' => true,
     'relationship_name' => 'clg2_programs_clg_disciplines_1',
   ),
+  'clg2_programs_clg_students_1' => 
+  array (
+    'rhs_label' => 'Students',
+    'lhs_label' => 'Programs',
+    'rhs_subpanel' => 'default',
+    'lhs_module' => 'clg2_programs',
+    'rhs_module' => 'clg_Students',
+    'relationship_type' => 'one-to-many',
+    'readonly' => true,
+    'deleted' => false,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+    'relationship_name' => 'clg2_programs_clg_students_1',
+  ), 
 );

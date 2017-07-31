@@ -23,3 +23,10 @@ include('custom/metadata/clg2_programs_clg_disciplines_1MetaData.php');
 
 
 ?>
+<?php
+// Merged from custom/Extension/application/Ext/TableDictionary/clg2_programs_clg_students_1.php
+ 
+include('custom/metadata/clg2_programs_clg_students_1MetaData.php');
+
+
+?>

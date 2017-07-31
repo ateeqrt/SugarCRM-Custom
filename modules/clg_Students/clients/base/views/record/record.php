@@ -183,6 +183,15 @@ array (
                 'name' => 'tag',
                 'span' => 12,
               ),
+              5 => 
+              array (
+                'name' => 'clg2_programs_clg_students_1_name',
+                'span' => 6,
+              ),
+              6 => 
+              array (
+                'name' => 'clg2_programs_clg_students_1_name',
+              ),              
             ),
           ),
           2 => 
