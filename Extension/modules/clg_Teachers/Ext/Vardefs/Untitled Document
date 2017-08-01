@@ -1,0 +1,11 @@
+
+<?php
+$dictionary['clg_Teachers']['fields']['clg3_Classes'] = array(
+    'name' => 'clg3_Classes',
+    'type' => 'link',
+    'relationship' => 'clg3_Classes_clg_Teachers',
+    'module' => 'clg3_Classes',
+    'bean_name' => 'clg3_Classes',
+    'source' => 'non-db',
+    'vname' => 'LBL_CLG3_CLASSES',
+    );
